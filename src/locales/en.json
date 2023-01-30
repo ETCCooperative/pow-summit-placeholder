@@ -1,7 +1,8 @@
 {
   "etc-grants-dao": {
-    "title": "POW Summit",
-    "description": "A pluralist conference bringing together the major POW chains.",
+    "title": "POW Summit 2023",
+    "description": "• Bridging the POW chains",
+    "description2": "• Back to cypherpunk basics",
     "date": "Prague, Czech Republic, June 26-27",
     "apply-now-text": "Contact Us",
     "apply-now-link": "https://airtable.com/shr3VMqyLd1HX5ws4?prefill_Form%20Language=English",
@@ -28,8 +29,8 @@
     "lafabrika": {
       "nav-heading": "La Fabrika"
     },
-    "nvitroblock": {
-      "nav-heading": "Nvitroblock"
+    "vnitroblock": {
+      "nav-heading": "Vnitroblock"
     },
     "categories": {
       "nav-heading": "Grant Categories"

@@ -5,6 +5,7 @@
   ref="navBar">
     <div class="flex items-center justify-between">
       <div class="w-logoMobileWidth cursor-pointer md:w-logoDesktopWidth h-logoDesktopheight flex float-left">
+        <img src="pickaxe.png"/>
         <a href="#">
           <p class="text-sm w-full my-auto pl-3 text-headingsColor lg:text-2xl font-semibold font-notoSans">
             {{ $t("etc-grants-dao.title") }}

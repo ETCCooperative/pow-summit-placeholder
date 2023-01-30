@@ -1,5 +1,7 @@
 # Ticketing {.parent-scroll-element #grantsProcess}
 
-Ticket sales are not open yet.  We are planning on doing joint-ticketing with
-MoneroKon, which we are co-locating with and planning to cross-promote and
-perhaps even co-ticket.
+Ticket sales will be opening imminently:
+
+- • General admission - €120
+- • VIP - €120
+- • Student/Senior discount ticket - €60
