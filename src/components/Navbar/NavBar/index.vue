@@ -8,7 +8,7 @@
         <img src="pickaxe.png"/>
         <a href="#">
           <p class="text-sm w-full my-auto pl-3 text-headingsColor lg:text-2xl font-semibold font-notoSans">
-            {{ $t("etc-grants-dao.title") }}
+            {{ $t("etc-grants-dao.logo-title") }}
           </p>
         </a>
       </div>

@@ -1,11 +1,12 @@
 {
   "etc-grants-dao": {
+    "logo-title": "POW Summit",
     "title": "POW Summit 2023",
     "description": "• Bridging the POW chains",
     "description2": "• Back to cypherpunk basics",
     "date": "Prague, Czech Republic, June 26-27",
     "apply-now-text": "Contact Us",
-    "apply-now-link": "https://airtable.com/shr3VMqyLd1HX5ws4?prefill_Form%20Language=English",
+    "apply-now-link": "#",
     "browse-text": "MoneroKon",
     "browse-link": "https://monerokon.com"
   },

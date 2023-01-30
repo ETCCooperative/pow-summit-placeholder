@@ -1,7 +1,7 @@
 
 # Overview { .parent-scroll-element #overview}
 
-**POW Summit 2023** is a unique conference which brings the major [Proof of Work (POW)](https://en.wikipedia.org/wiki/Proof_of_work) communities together around our common cause.  After Ethereum’s transition to Proof of Stake (POS), the mainstream narrative is that POW is an environmentally unfriendly and obsolete technology with no redeeming merits.
+**POW Summit 2023** is a unique conference which brings the major [Proof of Work (POW)](https://en.wikipedia.org/wiki/Proof_of_work) communities together around our common cause.  After Ethereum’s transition to Proof of Stake (POS), the mainstream narrative is that POW is an environmentally unfriendly and obsolete technology with no redeeming qualities.
 
 ![image](cypherpunks.jpg)
 
