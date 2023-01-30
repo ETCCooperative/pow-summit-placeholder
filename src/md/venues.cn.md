@@ -1,6 +1,6 @@
-# Venues {.parent-scroll-element #howToApply}
+# Venues {.parent-scroll-element #venues}
 
-## La Fabrika { .scroll-element #howToApply.lafabrika}
+## La Fabrika { .scroll-element #venues.lafabrika}
 
 The main venue for the conference is [La Fabrika](https://www.lafabrika.cz/en/lafabrika), where the full conference days will take place on Monday 26th and Tuesday 27th June 2023.
 
@@ -16,7 +16,7 @@ This unique complex at La Fabrika was, designed by the KAVA Studio was originate
 It’s the industrial origins that have given La Fabrika its specific charm and unique appearance.
 
 
-## Vnitroblock { .scroll-element #howToApply.vnitroblock}
+## Vnitroblock { .scroll-element #venues.vnitroblock}
 
 Our evening events will be held at [Vnitroblock](https://vnitroblock.cz/), with a VIP dinner on the evening of Sunday 25th June 2023, and the speaker dinner on the evening of Monday 26th June 2023.
 

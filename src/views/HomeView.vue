@@ -20,9 +20,10 @@
 
             <!-- Primary content for the website, split into multiple components -->
             <Overview />
-            <HowToApply />
-            <Process />
-            <Resources />
+            <Venues />
+            <Ticketing />
+            <MoneroKon />
+            <Prague />
 
             <!-- Apply Now form at bottom of page -->
             <a :href="$t('etc-grants-dao.apply-now-link')"
@@ -47,9 +48,10 @@ import NavBar from "@/components/Navbar/NavBar"
 import LeftSideBar from "@/components/Navbar/LeftSideBar"
 
 import Overview from "@/components/Overview"
-import HowToApply from "@/components/HowToApply"
-import Process from "@/components/Process"
-import Resources from "@/components/Resources"
+import Venues from "@/components/Venues"
+import Ticketing from "@/components/Ticketing"
+import MoneroKon from "@/components/MoneroKon"
+import Prague from "@/components/Prague"
 import Footer from "@/components/Footer"
 
 export default {
@@ -61,9 +63,10 @@ export default {
     LeftSideBar,
 
     Overview,
-    HowToApply,
-    Process,
-    Resources,
+    Venues,
+    Ticketing,
+    MoneroKon,
+    Prague,
     Footer
   },
 

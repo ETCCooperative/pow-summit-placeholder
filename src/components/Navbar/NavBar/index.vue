@@ -19,21 +19,21 @@
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
           {{ $t("overview.nav-heading") }}
         </a>
-        <a href="#howToApply"
+        <a href="#venues"
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
-          {{ $t("howToApply.nav-heading") }}
+          {{ $t("venues.nav-heading") }}
         </a>
-        <a :href="$t('etc-grants-dao.browse-link')"
+        <a href="#ticketing"
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
-          {{ $t("etc-grants-dao.browse-text") }}
+          {{ $t("ticketing.nav-heading") }}
         </a>
-        <a href="#grantsProcess"
+        <a href="#monerokon"
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
-          {{ $t("grantsProcess.nav-heading") }}
+          {{ $t("monerokon.nav-heading") }}
         </a>
-        <a href="#resources"
+        <a href="#prague"
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
-          {{ $t("resources.nav-heading") }}
+          {{ $t("prague.nav-heading") }}
         </a>
         <a :href="$t('etc-grants-dao.apply-now-link')"
           class="relative hidden lg:block font-notoSans font-semibold px-5 py-2 rounded text-headingsColor border-2 text-lg topApplyNow bg-gradient-to-r from-[#133706] to-[#53EB45]">

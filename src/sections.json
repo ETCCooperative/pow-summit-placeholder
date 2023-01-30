@@ -9,8 +9,8 @@
       }
     },
     {
-      "key": "howToApply",
-      "target": "#howToApply",
+      "key": "venues",
+      "target": "#venues",
       "locale": {
         "en": "Venues",
         "cn": "Venues"
@@ -19,7 +19,7 @@
       "subsections": [
         {
           "key": "lafabrika",
-          "target": "#howToApply.lafabrika",
+          "target": "#venues.lafabrika",
           "locale": {
             "en": "La Fabrika",
             "cn": "La Fabrika"
@@ -27,7 +27,7 @@
         },
         {
           "key": "vnitroblock",
-          "target": "#howToApply.vnitroblock",
+          "target": "#venues.vnitroblock",
           "locale": {
             "en": "Vnitroblock",
             "cn": "Vnitroblock"
@@ -36,16 +36,24 @@
       ]
     },
     {
-      "key": "grantsProcess",
-      "target": "#grantsProcess",
+      "key": "monerokon",
+      "target": "#monerokon",
+      "locale": {
+        "en": "MoneroKon",
+        "cn": "MoneroKon"
+      }
+    },
+    {
+      "key": "ticketing",
+      "target": "#ticketing",
       "locale": {
         "en": "Ticketing",
         "cn": "Ticketing"
       }
     },
     {
-      "key": "resources",
-      "target": "#resources",
+      "key": "prague",
+      "target": "#prague",
       "locale": {
         "en": "Prague",
         "cn": "Prague"

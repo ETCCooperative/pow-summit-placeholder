@@ -6,7 +6,7 @@
   </template>
   <script>
   export default {
-    name: "Resources",
+    name: "Prague",
     watch: {
       "$i18n.locale": function (newLang) {
         this.getContent(newLang);
@@ -21,12 +21,12 @@
       getContent(lang) {
         switch (lang) {
           case "en":
-            import("@/md/resources.en.md").then((contentEN) => {
+            import("@/md/prague.en.md").then((contentEN) => {
               this.content = contentEN.default;
             });
             break;
           case "cn":
-            import("@/md/resources.cn.md").then((contentCH) => {
+            import("@/md/prague.cn.md").then((contentCH) => {
               this.content = contentCH.default;
             });
             break;

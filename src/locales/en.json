@@ -14,17 +14,10 @@
   "contents-title": "Contents",
 
   "overview": {
-    "nav-heading": "Overview",
-
-    "etc-grants-dao": {
-      "nav-heading": "ETC Grants DAO"
-    },
-    "egd-grants-program": {
-      "nav-heading": "EGD Grants Program"
-    }
+    "nav-heading": "Overview"
   },
 
-  "howToApply": {
+  "venues": {
     "nav-heading": "Venues",
 
     "lafabrika": {
@@ -32,57 +25,19 @@
     },
     "vnitroblock": {
       "nav-heading": "Vnitroblock"
-    },
-    "categories": {
-      "nav-heading": "Grant Categories"
     }
   },
 
-  "grantsProcess": {
-    "nav-heading": "Ticketing",
-
-    "phases": {
-      "step1": {
-        "nav-heading": "Step 1: Call for Proposals"
-      },
-      "step2": {
-        "nav-heading": "Step 2: Grant Application Submission"
-      },
-      "step3": {
-        "nav-heading": "Step 3: Evaluation/Technical review"
-      },
-      "step4": {
-        "nav-heading": "Step 4: Grants team approval"
-      },
-      "step5": {
-        "nav-heading": "Step 5: Due diligence and KYC/AML requirements"
-      },
-      "step6": {
-        "nav-heading": "Step 6: Grant progress and Milestone review"
-      },
-      "step7": {
-        "nav-heading": "Step 7: Project Launch and Retrospective"
-      }
-    }
+  "ticketing": {
+    "nav-heading": "Ticketing"
   },
 
-  "resources": {
-    "nav-heading": "Prague",
-
-    "etc-developer-resources": {
-      "navheading": "ETC Developer Resources"
-    },
-    "etc-grants-dao": {
-      "navheading": "ETC Grants DAO"
-    },
-    "faqs": {
-      "navheading": "FAQs"
-    }
+  "monerokon": {
+    "nav-heading": "MoneroKon"
   },
 
-  "wechat": {
-    "back-button": "Back To Website",
-    "paragraph": "Please scan the QR code below to send a friend request and we will add you to the WeChat group"
+  "prague": {
+    "nav-heading": "Prague"
   },
 
   "footer": {

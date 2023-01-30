@@ -1,4 +1,4 @@
-# Ticketing {.parent-scroll-element #grantsProcess}
+# Ticketing {.parent-scroll-element #ticketing}
 
 Ticket sales will be opening imminently:
 
