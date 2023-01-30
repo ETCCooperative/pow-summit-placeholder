@@ -6,21 +6,21 @@
             class="my-auto mx-auto md:mx-0 md:my-0 text-center md:text-left container md:pl-8 xl:pl-28 md:pr-0 pt-11 content-end">
             <h1
               class="pl-heroHeadingMobile pr-heroHeadingMobile md:pl-0 md:pr-0 text-fourty leading-heroHeadingMobile text-headingsColor md:text-xxl md:leading-heroHeadingDesktop font-bold font-notoSans">
-              {{ $t("etc-grants-dao.title") }}
+              {{ $t("pow-summit.title") }}
     </h1>
             <p
               class="text-heroTextMobile md:text-heroTextDesktop text-headingsColor leading-heroText pt-1 pb-6 font-dmSans pl-8 pr-8 md:pl-0 md:pr-0">
-              {{ $t("etc-grants-dao.description") }}
+              {{ $t("pow-summit.description") }}
               <br/>
-              {{ $t("etc-grants-dao.description2") }}
+              {{ $t("pow-summit.description2") }}
             </p>
             <p
               class="text-heroTextMobile md:text-heroTextDesktop text-headingsColor leading-heroText pt-1 pb-6 font-dmSans pl-8 pr-8 md:pl-0 md:pr-0">
-              {{ $t("etc-grants-dao.date") }}
+              {{ $t("pow-summit.date") }}
             </p>
-            <a :href="$t('etc-grants-dao.apply-now-link')"
+            <a :href="$t('pow-summit.contact-us-link')"
               class="text-xl font-bold md:text-heroTextMobile mx-auto md:mx-0 px-5 py-3 rounded text-headingsColor bg-gradient-to-r from-[#133706] to-[#53EB45] font-notoSans w-heroButtonMobileWidth md:w-heroButtonDesktopWidth heroButton flex hover:scale-110 transition duration-300 ease-in-out">
-              <p>{{ $t("etc-grants-dao.apply-now-text") }}</p>
+              <p>{{ $t("pow-summit.contact-us-text") }}</p>
               <img src="@/images/applyButtonIcon.png"
                 class="max-w-heroBtnIcon max-h-heroBtnIcon ml-heroBtnIcon mt-heroBtnIconA" />
             </a>

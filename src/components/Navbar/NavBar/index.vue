@@ -8,7 +8,7 @@
         <img src="pickaxe.png"/>
         <a href="#">
           <p class="text-sm w-full my-auto pl-3 text-headingsColor lg:text-2xl font-semibold font-notoSans">
-            {{ $t("etc-grants-dao.logo-title") }}
+            {{ $t("pow-summit.logo-title") }}
           </p>
         </a>
       </div>
@@ -35,9 +35,9 @@
           class="hidden lg:block font-roboto font-semibold text-textColor text-lg my-auto navItems hover:text-headingsColor transition duration-700">
           {{ $t("prague.nav-heading") }}
         </a>
-        <a :href="$t('etc-grants-dao.apply-now-link')"
+        <a :href="$t('pow-summit.contact-us-link')"
           class="relative hidden lg:block font-notoSans font-semibold px-5 py-2 rounded text-headingsColor border-2 text-lg topApplyNow bg-gradient-to-r from-[#133706] to-[#53EB45]">
-          {{ $t("etc-grants-dao.apply-now-text") }} 
+          {{ $t("pow-summit.contact-us-text") }} 
         </a>
 
         <!-- English/Chinese toggle-->
@@ -63,19 +63,12 @@
     </div>
 
     <!-- Mobile navigation -->
-    <a :href="$t('etc-grants-dao.apply-now-link')"
+    <a :href="$t('pow-summit.contact-us-link')"
       class="py-1 mt-11 text-black text-center bg-gradient-to-r from-[#133706] to-[#53EB45] font-notoSans text-base font-bold rounded">
       <span class="text-headingsColor applyNowBtn relative">
-        {{ $t("etc-grants-dao.apply-now-text") }}
+        {{ $t("pow-summit.contact-us-text") }}
       </span>
     </a>
-    <a :href="$t('etc-grants-dao.browse-link')"
-      class="py-1 mt-11 text-black text-center bg-gradient-to-r from-[#09371B] to-[#317E2] font-notoSans text-base font-bold rounded">
-      <span class="text-headingsColor applyNowBtn relative">
-        {{ $t("etc-grants-dao.browse-text") }}
-      </span>
-    </a>
-
 
     <div v-for="(section, sectionKey) in sections" :key="sectionKey" :class="{'pt-6' : sectionKey > 0}">
       <a
