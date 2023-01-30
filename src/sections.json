@@ -58,6 +58,14 @@
         "en": "Prague",
         "cn": "Prague"
       }
+    },
+    {
+      "key": "contactus",
+      "target": "#contactus",
+      "locale": {
+        "en": "Contact Us",
+        "cn": "Contact Us"
+      }
     }
   ]
 }

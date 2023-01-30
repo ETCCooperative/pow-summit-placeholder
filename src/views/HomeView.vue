@@ -24,6 +24,7 @@
             <Ticketing />
             <MoneroKon />
             <Prague />
+            <ContactUs />
 
           </div>
         </div>
@@ -44,6 +45,7 @@ import Venues from "@/components/Venues"
 import Ticketing from "@/components/Ticketing"
 import MoneroKon from "@/components/MoneroKon"
 import Prague from "@/components/Prague"
+import ContactUs from "@/components/ContactUs"
 import Footer from "@/components/Footer"
 
 export default {
@@ -59,6 +61,8 @@ export default {
     Ticketing,
     MoneroKon,
     Prague,
+    ContactUs,
+    
     Footer
   },
 

@@ -6,7 +6,7 @@
     "description2": "• Back to cypherpunk basics",
     "date": "Prague, Czech Republic, June 26-27",
     "contact-us-text": "Contact Us",
-    "contact-us-link": "#"
+    "contact-us-link": "#contactus"
   },
 
   "contents-title": "Contents",
@@ -36,6 +36,10 @@
 
   "prague": {
     "nav-heading": "Prague"
+  },
+
+  "contactus": {
+    "nav-heading": "Contact Us"
   },
 
   "footer": {
